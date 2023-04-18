@@ -2,4 +2,6 @@
 
 ## What?
 
-This is a (in-progress) list of games being developed with Ambient, a multiplayer game engine.
+This is a (in-progress) list of games made or being developed with Ambient, a multiplayer game engine.
+
+## The List
