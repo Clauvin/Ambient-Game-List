@@ -22,7 +22,7 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 
 **Description:** A textual description of what is the game exactly, its features, etc.
 
-**Last Updated:** last date when someone looked to the game described here and updated some data here.
+**Last Updated:** last date when someone looked to the game described here and updated data about it.
 
 ## The List
 
