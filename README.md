@@ -11,19 +11,31 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 ## The Generic Info For Games
 
 **Name:** Game's name.
+
 **Creator:** Who's the human who's making the awesomeness better described below :D
+
 **Links:** Preferably, if the game is in development, add here a link to its repository - so people know where to go if they want to help, criticize, point to bugs or praise the project :) Also add links here for the game website, its community, etc.
+
 **Status**: mvp / alpha / beta / 1.0 / post-1.0
+
 **Genre:** Action game? Platform fighter? Puzzle? You get the drill.
+
 **Description:** A textual description of what is the game exactly, its features, etc.
+
 **Last Updated:** last date when someone looked to the game described here and updated some data here.
 
 ## The List
 
 **Name:** Minigolf
+
 **Creator:** ...good question. Trying to find out
-**Links:** https://github.com/AmbientRun/Ambient/releases <- Download examples.zip there, then follow instructions at https://github.com/AmbientRun/Ambient to run it. 
+
+**Links:** https://github.com/AmbientRun/Ambient/releases <- Download examples.zip there, then follow instructions at https://github.com/AmbientRun/Ambient to run it.
+
 **Status**: example, of what Ambient can do.
+
 **Genre:** Minigolf :D ...that falls into the sports genre? 🤔
+
 **Description:** I will update this once I can make it run, I'm having some tcp issues with the game on my PC.
+
 **Last Updated:** April 18th, 2023.
