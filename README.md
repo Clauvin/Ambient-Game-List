@@ -28,7 +28,7 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 
 **Name:** Minigolf
 
-**Creator:** ...good question. Trying to find out
+**Creator:** Discord's SK83RJOSH#1337
 
 **Links:** https://github.com/AmbientRun/Ambient/releases <- Download examples.zip there, then follow instructions at https://github.com/AmbientRun/Ambient to run it.
 
@@ -38,6 +38,6 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 
 **Description:** I will update this once I can make it run, I'm having some tcp issues with the game on my PC.
 
-**Last Updated:** April 18th, 2023.
+**Last Updated:** April 19th, 2023.
 
 -----
