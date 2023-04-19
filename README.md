@@ -41,3 +41,17 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 **Last Updated Info Here:** April 19th, 2023.
 
 -----
+
+**Name:** ambient_arpg
+
+**Creator:** Discord's wind#1720
+
+**Links:** https://github.com/wind/ambient_arpg
+
+**Status**: arpg demo
+
+**Genre:** Action RPG
+
+**Description:** a arpg demo of ambient engine, implemented basic movement, combat and ai.
+
+**Last Updated Info Here:** April 19th, 2023.
