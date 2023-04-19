@@ -22,7 +22,7 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 
 **Description:** A textual description of what is the game exactly, its features, etc.
 
-**Last Updated:** last date when someone looked to the game described here and updated data about it.
+**Last Updated Info Here:** last date when someone looked to the game described here and updated data about it.
 
 ## The List
 
@@ -38,6 +38,6 @@ Oh, thanks for the help! In this case, please make a PR with your addition to it
 
 **Description:** I will update this once I can make it run, I'm having some tcp issues with the game on my PC.
 
-**Last Updated:** April 19th, 2023.
+**Last Updated Info Here:** April 19th, 2023.
 
 -----
